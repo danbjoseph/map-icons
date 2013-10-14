@@ -1,2 +1,2 @@
-map-icons
+Map Icons
 =========
